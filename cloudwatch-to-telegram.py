@@ -1,5 +1,5 @@
 # Wrote this to send notifications about CodePipeline to a specific telegram channel using a bot. Can be changed based on needs.
-# It receives cloudwatch events as input, formats them based on needs and outputs them to the telegram channel using API.
+# It receives cloudwatch events as input, formats them based on needs and outputs them to the telegram channel using API. This is a work in progress.
 
 import boto3
 import json
